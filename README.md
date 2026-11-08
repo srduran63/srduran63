@@ -1,4 +1,4 @@
-# Hi, I'm Brandon 👋
+﻿# Hi, I'm Brandon 👋
 
 **Full-Stack Developer** based in Miami, FL. I design, build, and ship complete products: SaaS with subscriptions, marketplaces, AI apps, a Solana wallet, and real-time C++ audio plugins.
 
@@ -10,7 +10,7 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**Monchys AI**](https://github.com/srduran63/monchys-ai-toolkit) | Subscription SaaS with 9 AI & media tools, Stripe billing, per-customer AI cost control | React · Express · Claude API · Whisper · Stripe · Docker |
+| [**Monchys AI**](https://github.com/srduran63/monchys-ai-toolkit) · [live](https://monchys-ia.fly.dev) | Live subscription SaaS with 9 AI & media tools, Stripe billing, per-customer AI cost control | React · Express · Claude API · Whisper · Stripe · Docker |
 | [**StayFy**](https://github.com/srduran63/stayfy-space-booking) | Multilingual space-booking marketplace with Stripe Connect payouts and iCal sync | React · TypeScript · Supabase · Stripe Connect |
 | [**Solana Wallet**](https://github.com/srduran63/solana-wallet-extension) | Non-custodial wallet as a Chrome extension + PWA, encrypted vault, Jupiter swaps | React · TypeScript · Solana web3.js |
 | [**WhatsApp AI Lead Bot**](https://github.com/srduran63/whatsapp-ai-lead-bot) | Multi-tenant WhatsApp bot that answers customers and qualifies leads with Claude | Node.js · Claude API · WhatsApp Cloud API |
